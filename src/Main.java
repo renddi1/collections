@@ -64,7 +64,7 @@ public class Main {
         for (Object value : map.values()) {
             System.out.println(value);
             System.out.println ("1,2,3,4,5,6") ;
-
+nn
         }
 
     }
